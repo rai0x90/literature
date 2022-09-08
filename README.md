@@ -1,7 +1,7 @@
 # literature
 
 ```
-Things consumed across my intellectual journey
+things consumed across my intellectual journey
 ```
 
 <br>
