@@ -1,2 +1,5 @@
 # literature
-literature to explore everything
+
+```
+Things consumed across my intellectual journey
+```
