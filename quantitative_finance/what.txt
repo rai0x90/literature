@@ -13,3 +13,5 @@ The result is highly efficient financial markets which are still not immune to c
 liquidation panic, and "cobra effects" which include the high-frequency trading (HFT) arms race
 
     - excerpt from Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage
+
+
