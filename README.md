@@ -10,6 +10,7 @@ things consumed across my intellectual journey
 ### 0x1 - Quantitative Finance/Trading
 
 - [Advances in Financial Machine Learning](quantitative_finance/Advances%20in%20Financial%20Machine%20Learning.pdf)
+- [Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage](quantitative_finance/Quantitative%20Portfolio%20Management%20The%20Art%20and%20Science%20of%20Statistical%20Arbitrage.pdf)
 
 <br>
 
