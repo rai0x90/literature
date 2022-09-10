@@ -9,6 +9,8 @@ things consumed across my intellectual journey
 
 ### 0x1 - Quantitative Finance/Trading
 
+- [Advances in Financial Machine Learning](quantitative_finance/Advances%20in%20Financial%20Machine%20Learning.pdf)
+
 <br>
 
 ### 0x2 - Startups
