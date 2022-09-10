@@ -43,3 +43,5 @@ things consumed across my intellectual journey
 <br>
 
 ### 0x9 - Mathematics
+
+- [Discrete Mathematics and Its Applications](mathematics/Discrete%20mathematics%20and%20its%20applications%20by%20Rosen,%20Kenneth%20H%20,%208th%20Edition.pdf)
