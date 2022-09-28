@@ -12,6 +12,7 @@ things consumed across my intellectual journey
 - [Advances in Financial Machine Learning](quantitative_finance/Advances%20in%20Financial%20Machine%20Learning.pdf)
 - [Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage](quantitative_finance/Quantitative%20Portfolio%20Management%20The%20Art%20and%20Science%20of%20Statistical%20Arbitrage.pdf)
 - [Modern Computational Finance: AAD and Parallel Simulations](quantitative_finance/Savine_Modern_Computational_Finance.pdf)
+- [Exploratory Trading: High Frequency Trading](quantitative_finance/Exploratory%20Trading%20HFT.pdf)
 
 <br>
 
