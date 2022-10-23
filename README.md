@@ -22,29 +22,37 @@ things consumed across my intellectual journey
 
 ### 0x3 - Neuroscience-Based AI
 
-<br>
-
-### 0x4 - Hacking
 
 <br>
 
-### 0x5 - Quantum Computing
+### 0x4 - Computational Neuroscience
+
+- [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/online/index.html)
+  - [Neuronal Dynamics: Python Exercises](https://neuronaldynamics-exercises.readthedocs.io/en/latest/)
 
 <br>
 
-### 0x6 - Software Engineering
+### 0x5 - Hacking
 
 <br>
 
-### 0x7 - Astrophysics/Cosmology
+### 0x6 - Quantum Computing
 
 <br>
 
-### 0x8 - Philosophy
+### 0x7 - Software Engineering
 
 <br>
 
-### 0x9 - Mathematics
+### 0x8 - Astrophysics/Cosmology
+
+<br>
+
+### 0x9 - Philosophy
+
+<br>
+
+### 0x10 - Mathematics
 
 - [Discrete Mathematics and Its Applications](mathematics/Discrete%20mathematics%20and%20its%20applications%20by%20Rosen,%20Kenneth%20H%20,%208th%20Edition.pdf)
 - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](mathematics/Deep%20Maths%20for%20CS%20and%20ML.pdf)
