@@ -27,6 +27,7 @@ things consumed across my intellectual journey
 
 ### 0x4 - Computational Neuroscience
 
+- [How to Get Started in Computational Neuroscience](https://medium.com/neurotechx/how-to-get-started-in-computational-neuroscience-dde4b1817ccd)
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/online/index.html)
   - [Neuronal Dynamics: Python Exercises](https://neuronaldynamics-exercises.readthedocs.io/en/latest/)
 - [Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
