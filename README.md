@@ -18,6 +18,9 @@ things consumed across my intellectual journey
 
 ### 0x2 - Startups
 
+- [Ernestine Fu: All You Need to Know About Venture Capital](https://www.youtube.com/watch?v=qieDyvn6q0Q)
+- [Decision Analysis in Venture](https://www.youtube.com/watch?v=Wi3PiZsIfBU)
+
 <br>
 
 ### 0x3 - Neuroscience-Based AI
@@ -51,6 +54,8 @@ things consumed across my intellectual journey
 ### 0x7 - Software Engineering
 - C++
   - [Programming and Intro Data Structures](https://eecs280staff.github.io/notes/01_Intro_MachineModel.html#intro-machinemodel)
+- Hardware
+  - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://www.youtube.com/watch?v=aHx-XUA6f9g)
 
 <br>
 
