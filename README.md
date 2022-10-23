@@ -49,6 +49,8 @@ things consumed across my intellectual journey
 <br>
 
 ### 0x7 - Software Engineering
+- C++
+  - [Programming and Intro Data Structures](https://eecs280staff.github.io/notes/01_Intro_MachineModel.html#intro-machinemodel)
 
 <br>
 
