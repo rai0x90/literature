@@ -56,6 +56,9 @@ things consumed across my intellectual journey
   - [Programming and Intro Data Structures](https://eecs280staff.github.io/notes/01_Intro_MachineModel.html#intro-machinemodel)
 - Hardware
   - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://www.youtube.com/watch?v=aHx-XUA6f9g)
+- Interviews
+  - [Leetcode 101: The 14 Patterns Introduction | Workshop (Winter 2022)](https://www.youtube.com/watch?v=g6TLB_tAaCI)
+  - [DS&A Interview Cheatsheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 <br>
 
