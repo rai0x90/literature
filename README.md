@@ -16,7 +16,7 @@ things consumed across my intellectual journey
 
 <br>
 
-### 0x2 - Startups
+### 0x2 - Startups/Venture Capital
 
 - [Ernestine Fu: All You Need to Know About Venture Capital](https://www.youtube.com/watch?v=qieDyvn6q0Q)
 - [Decision Analysis in Venture](https://www.youtube.com/watch?v=Wi3PiZsIfBU)
