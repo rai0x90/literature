@@ -61,6 +61,8 @@ things consumed across my intellectual journey
 
 ### 0x8 - Astrophysics/Cosmology
 
+- [Leonard Susskind's General Relativity Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib)
+
 <br>
 
 ### 0x9 - Philosophy
