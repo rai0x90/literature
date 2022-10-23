@@ -34,6 +34,9 @@ things consumed across my intellectual journey
 - [Neural Data Science](https://github.com/NeuralDataScience)
   - [Course Readings](https://github.com/NeuralDataScience/Readings)
   - [Course Projects](https://github.com/NeuralDataScience/Projects)
+- Datasets
+  - [OpenNeuro](https://openneuro.org/)
+  - [NeuroMorpho](https://neuromorpho.org/)
 
 <br>
 
