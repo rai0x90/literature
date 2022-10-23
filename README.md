@@ -30,6 +30,9 @@ things consumed across my intellectual journey
 - [Neuronal Dynamics](https://neuronaldynamics.epfl.ch/online/index.html)
   - [Neuronal Dynamics: Python Exercises](https://neuronaldynamics-exercises.readthedocs.io/en/latest/)
 - [Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
+- [Neural Data Science](https://github.com/NeuralDataScience)
+  - [Course Readings](https://github.com/NeuralDataScience/Readings)
+  - [Course Projects](https://github.com/NeuralDataScience/Projects)
 
 <br>
 
