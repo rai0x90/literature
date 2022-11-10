@@ -64,6 +64,7 @@ things consumed across my intellectual journey
 
 ### 0x8 - Astrophysics/Cosmology
 
+- [The Cosmic Perspective (Comprehensive Survey of Modern Astronomy)](https://drive.google.com/file/d/1-wY5lFQZXtlPkFGW-OG4uWMJhzHEcfOS/view)
 - [Leonard Susskind's General Relativity Lectures](https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib)
 
 <br>
