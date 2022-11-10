@@ -70,6 +70,7 @@ things consumed across my intellectual journey
 <br>
 
 ### 0x9 - Philosophy
+- [Michel Foucault's Madness & Civilization](https://ia803108.us.archive.org/34/items/Michel_Foucault_Madness_And_Civilization/Michel%20Foucault%2C%20Richard%20Howard%20%28transl.%29%20-%20Madness%20and%20Civilization_%20A%20History%20of%20Insanity%20in%20the%20Age%20of%20Reason%20%282013%2C%20Vintage%29.pdf)
 
 <br>
 
