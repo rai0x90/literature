@@ -45,6 +45,7 @@ things consumed across my intellectual journey
 
 ### 0x5 - Hacking
 
+- [The FASHIONCLEFT Protocol (NSA Tailored Access Operations)](hacking/FASHIONCLEFT.pdf)
 - [FASHIONCLEFT Protocol (NSA Tailored Access Operations) Interface Control Document](https://www.eff.org/files/2015/01/27/20150117-spiegel-technical_description_of_the_fashioncleft_protocol_.pdf)
 
 <br>
