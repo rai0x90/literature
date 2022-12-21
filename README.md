@@ -59,6 +59,11 @@ things consumed across my intellectual journey
 - Hash Table Exploitation
   - [Orange Tsai: Destabilizing Hash Table on Microsoft IIS](https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html)
     - [DEFCON 30 Video Presentation](https://www.youtube.com/watch?v=9w1VqFkVAJs)
+    - [Presentation Slides](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2022-Lets-Dance-in-the-Cache-Destabilizing-Hash-Table-on-Microsoft-IIS.pdf)
+  - Hash-Flooding Attacks
+    - [Hash-Flooding DoS](https://isdanni.com/hash-flooding/)
+    - [What is Hash-Flooding Attack](https://www.programmersought.com/article/96539229181/)
+    - [Hash-Flooding DoS Reloaded: Attacks and Defenses](https://docslib.org/doc/9683880/hash-flooding-dos-reloaded-attacks-and-defenses)
 - Template Engine Exploitation
   - [AST Injection, Prototype Pollution to RCE](https://blog.p6.is/AST-Injection/)
   - [Polluting Template Engine Cache via Prototype Pollution](https://blog.p6.is/AST-Injection/)
