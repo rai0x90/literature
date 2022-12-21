@@ -50,11 +50,15 @@ things consumed across my intellectual journey
   - [Abusing Environment Variables](https://blog.p6.is/Abusing-Environment-Variables/)
 - Web Security
   - [POSIX's Web Sec Cheatsheet](https://blog.p6.is/Web-Security-CheatSheet/)
+  - [Orange Tsai: A Journey Combining Web Hacking and Binary Exploitation in Real World](https://www.youtube.com/watch?v=-dh4QXK3WCw)
   - XSS
     - [POSIX's XSS Cheatsheet](https://blog.p6.is/xss-cheatsheet/)
 - Networking
   - [The FASHIONCLEFT Protocol (NSA Tailored Access Operations)](hacking/FASHIONCLEFT.pdf)
   - [FASHIONCLEFT Protocol (NSA Tailored Access Operations) Interface Control Document](https://www.eff.org/files/2015/01/27/20150117-spiegel-technical_description_of_the_fashioncleft_protocol_.pdf)
+- Hash Table Exploitation
+  - [Orange Tsai: Destabilizing Hash Table on Microsoft IIS](https://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html)
+    - [DEFCON 30 Video Presentation](https://www.youtube.com/watch?v=9w1VqFkVAJs)
 - Template Engine Exploitation
   - [AST Injection, Prototype Pollution to RCE](https://blog.p6.is/AST-Injection/)
   - [Polluting Template Engine Cache via Prototype Pollution](https://blog.p6.is/AST-Injection/)
