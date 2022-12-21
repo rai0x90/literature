@@ -75,8 +75,15 @@ things consumed across my intellectual journey
 <br>
 
 ### 0x7 - Software Engineering
-- C++
+- Data Structures & Algorithms
   - [Programming and Intro Data Structures](https://eecs280staff.github.io/notes/01_Intro_MachineModel.html#intro-machinemodel)
+- Networking
+  - [Beej’s Guide to Network Programming Using Internet Sockets](https://beej.us/guide/bgnet/pdf/bgnet_usl_c_1.pdf)
+  - [Qt Network](https://doc.qt.io/qt-6/qtnetwork-index.html#articles-and-guides)
+  - [Network Programming with Qt](https://doc.qt.io/qt-6/qtnetwork-programming.html)
+  - [Boost.Asio Docs](https://www.boost.org/doc/libs/1_81_0/doc/html/boost_asio.html)
+  - [C++ Network Programming with Patterns, Frameworks, and ACE](https://www.dre.vanderbilt.edu/~schmidt/PDF/ACE-tutorial.pdf)
+  - [Guide to Implementing Communication Protocols in C++ (for Embedded Systems)](https://commschamp.github.io/comms_protocols_cpp/)
 - Hardware
   - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://www.youtube.com/watch?v=aHx-XUA6f9g)
 - Interviews
