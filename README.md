@@ -45,8 +45,19 @@ things consumed across my intellectual journey
 
 ### 0x5 - Hacking
 
-- [The FASHIONCLEFT Protocol (NSA Tailored Access Operations)](hacking/FASHIONCLEFT.pdf)
-- [FASHIONCLEFT Protocol (NSA Tailored Access Operations) Interface Control Document](https://www.eff.org/files/2015/01/27/20150117-spiegel-technical_description_of_the_fashioncleft_protocol_.pdf)
+- Environment Variables
+  - [Hacking with Environment Variables](https://www.elttam.com/blog/env/)
+  - [Abusing Environment Variables](https://blog.p6.is/Abusing-Environment-Variables/)
+- Web Security
+  - [POSIX's Web Sec Cheatsheet](https://blog.p6.is/Web-Security-CheatSheet/)
+  - XSS
+    - [POSIX's XSS Cheatsheet](https://blog.p6.is/xss-cheatsheet/)
+- Networking
+  - [The FASHIONCLEFT Protocol (NSA Tailored Access Operations)](hacking/FASHIONCLEFT.pdf)
+  - [FASHIONCLEFT Protocol (NSA Tailored Access Operations) Interface Control Document](https://www.eff.org/files/2015/01/27/20150117-spiegel-technical_description_of_the_fashioncleft_protocol_.pdf)
+- Template Engine Exploitation
+  - [AST Injection, Prototype Pollution to RCE](https://blog.p6.is/AST-Injection/)
+  - [Polluting Template Engine Cache via Prototype Pollution](https://blog.p6.is/AST-Injection/)
 
 <br>
 
