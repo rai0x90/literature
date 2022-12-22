@@ -108,3 +108,4 @@ things consumed across my intellectual journey
 
 - [Discrete Mathematics and Its Applications](mathematics/Discrete%20mathematics%20and%20its%20applications%20by%20Rosen,%20Kenneth%20H%20,%208th%20Edition.pdf)
 - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](mathematics/Deep%20Maths%20for%20CS%20and%20ML.pdf)
+- [Group Theory - Intro to Higher Mathematics](https://www.youtube.com/watch?v=KufsL2VgELo)
