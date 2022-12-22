@@ -1,7 +1,7 @@
 # literature
 
 ```
-things consumed across my intellectual journey
+high quality literature/media consumed across my intellectual journey
 ```
 
 <br>
@@ -23,7 +23,9 @@ things consumed across my intellectual journey
 
 <br>
 
-### 0x3 - Neuroscience-Based AI
+### 0x3 - Machine Learning
+- LLMs (Large Language Models)
+  - [Deep Mind: Improving language models by retrieving from trillions of tokens](machine_learning/deepmind_llm.pdf)
 
 
 <br>
