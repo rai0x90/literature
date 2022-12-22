@@ -84,6 +84,8 @@ things consumed across my intellectual journey
   - [Boost.Asio Docs](https://www.boost.org/doc/libs/1_81_0/doc/html/boost_asio.html)
   - [C++ Network Programming with Patterns, Frameworks, and ACE](https://www.dre.vanderbilt.edu/~schmidt/PDF/ACE-tutorial.pdf)
   - [Guide to Implementing Communication Protocols in C++ (for Embedded Systems)](https://commschamp.github.io/comms_protocols_cpp/)
+- Low Level
+  - [Assembly Language for x86 Processors (x86/Intel64 Processors, MASM)](https://docslib.org/doc/4423084/assembly-language-for-x86-processors)
 - Hardware
   - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://www.youtube.com/watch?v=aHx-XUA6f9g)
 - Interviews
@@ -106,6 +108,6 @@ things consumed across my intellectual journey
 
 ### 0x10 - Mathematics
 
-- [Discrete Mathematics and Its Applications](mathematics/Discrete%20mathematics%20and%20its%20applications%20by%20Rosen,%20Kenneth%20H%20,%208th%20Edition.pdf)
+- [Discrete Mathematics and Its Applications, 8th Edition](mathematics/Discrete%20mathematics%20and%20its%20applications%20by%20Rosen,%20Kenneth%20H%20,%208th%20Edition.pdf)
 - [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](mathematics/Deep%20Maths%20for%20CS%20and%20ML.pdf)
 - [Group Theory - Intro to Higher Mathematics](https://www.youtube.com/watch?v=KufsL2VgELo)
