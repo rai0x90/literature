@@ -85,6 +85,7 @@ things consumed across my intellectual journey
   - [C++ Network Programming with Patterns, Frameworks, and ACE](https://www.dre.vanderbilt.edu/~schmidt/PDF/ACE-tutorial.pdf)
   - [Guide to Implementing Communication Protocols in C++ (for Embedded Systems)](https://commschamp.github.io/comms_protocols_cpp/)
 - Low Level
+  - [Dragon Book 2nd Edition - Compilers: Principles, Techniques, and Tools](SWE/Dragon%20Book%20-%20Compilers%20Principles%20Techniques%20and%20Tools%20(2nd%20Edition).pdf)
   - [Assembly Language for x86 Processors (x86/Intel64 Processors, MASM)](https://docslib.org/doc/4423084/assembly-language-for-x86-processors)
 - Hardware
   - [Reading Silicon: How to Reverse Engineer Integrated Circuits](https://www.youtube.com/watch?v=aHx-XUA6f9g)
