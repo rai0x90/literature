@@ -73,6 +73,8 @@ curated literature/media consumed across my intellectual journey
   - [Orange Tsai: A Journey Combining Web Hacking and Binary Exploitation in Real World](https://www.youtube.com/watch?v=-dh4QXK3WCw)
   - XSS
     - [POSIX's XSS Cheatsheet](https://blog.p6.is/xss-cheatsheet/)
+- Reverse Engineering
+  - [Automatic Protocol Reverse Engineering](https://www.youtube.com/watch?v=tXEMiOMGk0M)
 - Networking
   - [The FASHIONCLEFT Protocol (NSA Tailored Access Operations)](hacking/FASHIONCLEFT.pdf)
   - [FASHIONCLEFT Protocol (NSA Tailored Access Operations) Interface Control Document](https://www.eff.org/files/2015/01/27/20150117-spiegel-technical_description_of_the_fashioncleft_protocol_.pdf)
