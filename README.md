@@ -28,12 +28,20 @@ high quality literature/media consumed across my intellectual journey
   - [Deep Mind: Improving language models by retrieving from trillions of tokens](machine_learning/deepmind_llm.pdf)
 - Problems
   - [AI-complete/AI-hard](https://en.wikipedia.org/wiki/AI-complete)
+  - [Yann LeCun - The Present and Future of Artificial Intelligence](https://www.youtube.com/watch?v=a0-mULz6nhI)
 - Neural Networks
   - [Why neural networks aren't neural networks](https://www.youtube.com/watch?v=CfAL_cL3SGQ)
   - [The Hopfield Network: Memory Storage in Neural Networks](https://www.youtube.com/watch?v=piF6D6CQxUw)
 - Deep Learning
   - [AMMI Geometric Deep Learning Course, 2nd Edition](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
   - [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models](machine_learning/adan.pdf)
+- Models, Fundamentals, & Programming
+  - [MiniTorch: A DIY teaching library for ML who wish to learn about the internal concepts underlying deep learning systems](https://minitorch.github.io/)
+  - [Rank, Axes, and Shape Explained - Tensors for Deep Learning](https://www.youtube.com/watch?v=AiyK0idr4uM)
+  - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+  - [Baye's Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+  - [Normalization](https://www.codecademy.com/articles/normalization)
+  - [Deep Learning Basics - Input Normalization](https://medium.com/analytics-vidhya/deep-learning-basics-input-normalization-670735d3a832)
 - MLOps
   - [Python, OCaml, and Machine Learning at Jane Street](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
 
