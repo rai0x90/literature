@@ -26,6 +26,16 @@ high quality literature/media consumed across my intellectual journey
 ### 0x3 - Machine Learning
 - LLMs (Large Language Models)
   - [Deep Mind: Improving language models by retrieving from trillions of tokens](machine_learning/deepmind_llm.pdf)
+- Problems
+  - [AI-complete/AI-hard](https://en.wikipedia.org/wiki/AI-complete)
+- Neural Networks
+  - [Why neural networks aren't neural networks](https://www.youtube.com/watch?v=CfAL_cL3SGQ)
+  - [The Hopfield Network: Memory Storage in Neural Networks](https://www.youtube.com/watch?v=piF6D6CQxUw)
+- Deep Learning
+  - [AMMI Geometric Deep Learning Course, 2nd Edition](https://www.youtube.com/playlist?list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+  - [Adan: Adaptive Nesterov Momentum Algorithm for Faster Optimizing Deep Models](machine_learning/adan.pdf)
+- MLOps
+  - [Python, OCaml, and Machine Learning at Jane Street](https://signalsandthreads.com/python-ocaml-and-machine-learning/)
 
 
 <br>
