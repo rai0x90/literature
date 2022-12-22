@@ -1,7 +1,7 @@
 # literature
 
 ```
-high quality literature/media consumed across my intellectual journey
+curated literature/media consumed across my intellectual journey
 ```
 
 <br>
