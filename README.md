@@ -125,7 +125,10 @@ curated literature/media consumed across my intellectual journey
 <br>
 
 ### 0x9 - Philosophy
-- [Michel Foucault's Madness & Civilization](https://ia803108.us.archive.org/34/items/Michel_Foucault_Madness_And_Civilization/Michel%20Foucault%2C%20Richard%20Howard%20%28transl.%29%20-%20Madness%20and%20Civilization_%20A%20History%20of%20Insanity%20in%20the%20Age%20of%20Reason%20%282013%2C%20Vintage%29.pdf)
+- [Madness & Civilization](https://ia803108.us.archive.org/34/items/Michel_Foucault_Madness_And_Civilization/Michel%20Foucault%2C%20Richard%20Howard%20%28transl.%29%20-%20Madness%20and%20Civilization_%20A%20History%20of%20Insanity%20in%20the%20Age%20of%20Reason%20%282013%2C%20Vintage%29.pdf)
+- [Capitalist Realism: Is There No Alternative?](https://files.libcom.org/files/[Mark_Fisher]_Capitalist_Realism_Is_There_no_Alte(BookZZ.org).pdf)
+- [Anti-Oedipus: Capitalism and Schizophrenia](https://files.libcom.org/files/Anti-Oedipus.pdf)
+- [A Thousand Plateus: Capitalism and Schizophrenia](https://files.libcom.org/files/A%20Thousand%20Plateaus.pdf)
 
 <br>
 
