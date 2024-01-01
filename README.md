@@ -7,9 +7,14 @@ curated literature/media consumed across my intellectual journey
 <br>
 
 
-### 0x1 - Quantitative Finance/Trading
+### 0x1 - Quantitative Finance/Algorithmic Trading
 
+- [Systematic Trading: A unique new method for designing trading and investing systems](https://libgen.rs/book/index.php?md5=ACC154B3BB20A85911C41E2D1000FDAA)
+- [Trading Systems and Methods](https://libgen.rs/book/index.php?md5=093DB49A85B3E019130725F35A3B54AC)
 - [Advances in Financial Machine Learning](quantitative_finance/Advances%20in%20Financial%20Machine%20Learning.pdf)
+- [The Leverage Space Trading Model](https://libgen.rs/book/index.php?md5=0ADD584D80A8725D0D5EA206F83A34A6)
+- [Cycle Analytics for Traders](https://libgen.rs/book/index.php?md5=4B4EB5653A9747F3929081D1A6B77389)
+- [Rocket Science for Traders: Digital Signal Processing Applications](https://libgen.rs/book/index.php?md5=A7FD496D115D6441D808B56C015AA1D6)
 - [Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage](quantitative_finance/Quantitative%20Portfolio%20Management%20The%20Art%20and%20Science%20of%20Statistical%20Arbitrage.pdf)
 - [Modern Computational Finance: AAD and Parallel Simulations](quantitative_finance/Savine_Modern_Computational_Finance.pdf)
 - [Exploratory Trading: High Frequency Trading](quantitative_finance/Exploratory%20Trading%20HFT.pdf)
